@@ -1,0 +1,532 @@
+/* Gilroy Medium (500)  16px Line Height: 16px */
+.typographyGlobalButtonTitle 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Medium (500)  16px Line Height: 16px */
+.typographyGlobalFields 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Medium (500)  12px Line height: 22px  */
+.typographyGlobalBodyXs 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing:  
+  0.02em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Bold (700)  12px Line height: 22px */
+.typographyGlobalBodyXsBold 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing:  
+  0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyGlobalInTextLink 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyGlobalInTextLinkS 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Regular (500)  10px  Line height: 14px */
+.typographyGlobalCaption 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Medium Italic (400)  16px = 1rem Tracking: 0,2 */
+.typographyGlobalFieldsLocked 
+ {
+  
+  font-family: "Gilroy";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Medium (500)  16px = 1rem Line height: 28px */
+.typographyLgBody 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Bold (700) 16px = 1rem Line height: 28px */
+.typographyLgBodyBold 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* “Gilroy Bold (700) centre-aligned 36px = 2,625rem  Line height 46px” */
+.typographyLgQuotation 
+ {
+  
+  font-family: "Gilroy";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 46px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Semibold 52px = 3,25rem Line height: 62px */
+.typographyLgHeadingH1 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 58px;
+  line-height: 62px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Semibold (600)  42px = 2,625rem Line height: 52px */
+.typographyLgHeadingH2 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 52px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Semibold (600)  36px = 2,25rem Line height: 44px */
+.typographyLgHeadingH3 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 44px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Semibold (600)  28px = 1,5rem Line height: 38px */
+.typographyLgHeadingH4 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 38px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Semibold (600)  24px = 1,25rem Line height: 32px */
+.typographyLgHeadingH5 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Semibold (600)  18px = 1,25rem Line height: 30px */
+.typographyLgHeadingH6 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyMdHeadingH1 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 50px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyMdHeadingH2 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 44px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyMdHeadingH3 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 38px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyMdHeadingH4 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyMdHeadingH5 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyMdHeadingH6 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmHeadingH1 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 44px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmHeadingH2 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 38px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmHeadingH3 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmHeadingH4 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmHeadingH5 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmBody 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyMdBody 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmBodyBold 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyMdBodyBold 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+/* Gilroy Medium Italic (500) centre-aligned 24px Line height 36px */
+.typographyMdQuotation 
+ {
+  
+  font-family: "Gilroy";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 36px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmQuotation 
+ {
+  
+  font-family: "Gilroy";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 36px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmHeadingH6 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyGlobalButtonTitleHover 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyGlobalBodyS 
+ {
+  
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+

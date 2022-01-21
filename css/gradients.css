@@ -1,0 +1,10 @@
+
+:root {
+    --gradientBaseGradientGreen: linear-gradient(
+          58.4deg,
+          #6ddc91 0%,   
+          #8ee59c 25%,   
+          #e8fdbce8 100%  
+        )
+        ;    
+}
