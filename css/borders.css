@@ -1,0 +1,7 @@
+
+:root {
+    --borderSDark: var(--measureXxxxs) solid var(--colorActionBorderDefault);    
+    --border0: 0px solid var(--colorActionBorderDefault);    
+    --borderMDark: var(--measureXxxs) solid #000000;    
+    --borderLDark: var(--measureXxs) solid var(--colorActionBorderDefault);    
+}

@@ -1,0 +1,95 @@
+
+:root {
+    --colorBaseStromeeGreen: #6ddc91;    
+    --colorBaseStromeeNavy: #161e37;    
+    --colorBasePopPetrol: #1b4650;    
+    --colorBasePunchGreen: #dcfdbc;    
+    /* Background content blocks */
+    --colorBaseSummerYellow: #fcf466;    
+    --colorBaseSkyBlue: #7cb9d6;    
+    --colorBaseSkyBlueLight: #b1d5e7;    
+    --colorBaseLollipopRed: #d9536a;    
+    --colorBaseGrey200: #666a6a;    
+    --colorBaseGrey300: #a3a6a6;    
+    --colorBaseGrey400: #cfcfcf;    
+    --colorBaseGrey500: #ebebeb;    
+    --colorBaseGrey600: #f8f8f8;    
+    --colorBaseCloudWhite: #ffffff;    
+    --colorBaseCloudWhiteOpacity40: #ffffff66;    
+    --colorBaseCloudWhiteOpacity80: #ffffffcc;    
+    --colorBaseStromeeGreen200: #84e1a2;    
+    --colorBaseStromeeGreen300: #98e6b2;    
+    --colorBaseStromeeGreen400: #adebc1;    
+    --colorBaseStromeeNavy200: #1d2849;    
+    --colorBaseStromeeNavy300: #24325b;    
+    --colorBaseStromeeNavy400: #2c3c6d;    
+    --colorBaseTanLight: #f0e7da;    
+    --colorBaseTanDark: #f5d6ba;    
+    --colorBaseOpacity100: #05123808;    
+    --colorBaseOpacity200: #0512381a;    
+    --colorBaseOpacity300: #161e3726;    
+    --colorBaseOpacity400: #161e3766;    
+    --colorBaseOpacity500: #161e3799;    
+    --colorBaseOpacityFull: #ffffff00;    
+    --colorActionDisabled: var(--colorBaseGrey600);    
+    --colorActionOnDisabled: var(--colorBaseGrey400);    
+    --colorActionBackground: var(--colorBaseCloudWhite);    
+    --colorActionPrimaryDefault: var(--colorBaseStromeeGreen);    
+    --colorActionPrimaryHover: var(--colorBaseStromeeGreen);    
+    --colorActionOnPrimaryDefault: var(--colorBaseStromeeNavy);    
+    --colorActionOnPrimaryHover: var(--colorBaseStromeeNavy);    
+    --colorActionSecondaryDefault: var(--colorBaseStromeeNavy);    
+    --colorActionSecondaryHover: var(--colorBaseStromeeNavy);    
+    --colorActionOnSecondaryDefault: var(--colorBaseGrey600);    
+    --colorActionOnSecondaryHover: var(--colorBaseGrey600);    
+    --colorActionTertiaryDefault: var(--colorBaseGrey600);    
+    --colorActionTertiaryHover: var(--colorBaseStromeeNavy);    
+    --colorActionOnTertiaryDefault: var(--colorBaseStromeeNavy);    
+    --colorActionOnTertiaryHover: var(--colorBaseGrey600);    
+    --colorActionBorderDefault: var(--colorBaseStromeeNavy);    
+    --colorActionBorderOnDark: var(--colorBaseGrey600);    
+    --colorActionBorderActive: var(--colorBaseGrey400);    
+    --colorActionBorderDisabled: var(--colorBaseGrey500);    
+    /* Use for free-standing icons, graphics and/or texts */
+    --colorForgroundDefault: var(--colorBaseStromeeNavy);    
+    /* Use for free-standing icons, graphics and/or texts on dark backgrounds */
+    --colorForgroundOnDark: var(--colorBaseGrey500);    
+    /* Use for free-standing icons, graphics and/or texts */
+    --colorForgroundDisabled: var(--colorBaseGrey400);    
+    --colorForgroundSecondary: var(--colorBaseGrey300);    
+    /* Baseline UI background */
+    --colorBackgroundDefault: var(--colorBaseGrey600);    
+    --colorBackgroundSecondary: var(--colorBaseCloudWhite);    
+    --colorBackgroundDarkPrimary: var(--colorBaseStromeeNavy);    
+    --colorBorderCards: var(--colorBaseGrey500);    
+    /* Use to divide between section or elements when needed */
+    --colorBorderDividerLight: var(--colorBaseGrey500);    
+    --colorBorderDefault: var(--colorBaseStromeeNavy);    
+    /* opacity-200 */
+    --colorEffectsDropShadowButtons: var(--colorBaseOpacity200);    
+    /* lition-basic-opacity-100 */
+    --colorEffectsDropShadowLables: var(--colorBaseOpacity200);    
+    --colorEffectsDropShadowInputDropdownFields: var(--colorBaseOpacity100);    
+    --colorEffectsDropShadowCards: var(--colorBaseOpacity200);    
+    --colorEffectsDropShadowCardsHover: var(--colorBaseOpacity300);    
+    --colorEffectsDropShadowFloatingComponents: var(--colorBaseOpacity200);    
+    --colorEffectsGlowDefault: var(--colorBaseCloudWhiteOpacity80);    
+    --colorFeedbackAttention: var(--colorBaseTanLight);    
+    --colorFeedbackSuccess: var(--colorBaseStromeeGreen);    
+    --colorFeedbackError: var(--colorBaseLollipopRed);    
+    --colorFeedbackTextlinkStatic: var(--colorBaseSkyBlue);    
+    --colorFeedbackTextlinkHover: var(--colorBaseSkyBlueLight);    
+    --colorFeedbackBorderError: var(--colorBaseLollipopRed);    
+    --colorFeedbackForgroundDefault: var(--colorBaseStromeeNavy);    
+    --colorFeedbackForgroundSecondary: var(--colorBaseCloudWhite);    
+    --colorFeedbackForgroundError: var(--colorBaseLollipopRed);    
+    --colorFeedbackForgroundSuccess: var(--colorBaseStromeeGreen);    
+    --colorFeedbackBackgroundSuccess: var(--colorBaseStromeeGreen);    
+    --colorFeedbackBackgroundAttention: var(--colorBaseTanLight);    
+    --colorFeedbackBackgroundError: var(--colorBaseLollipopRed);    
+    --colorBackgroundContainerProduct: var(--colorBaseTanLight);    
+    --colorBackgroundContainer: var(--colorBasePopPetrol);    
+    --colorActionOnDark: var(--colorBaseGrey500);    
+    --colorActionInactive: var(--colorBaseGrey400);    
+    --colorActionActive: var(--colorBaseStromeeGreen);    
+}

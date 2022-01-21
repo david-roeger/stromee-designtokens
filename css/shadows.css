@@ -1,0 +1,11 @@
+
+:root {
+    --shadowDropShadowButtons: 0px 0px  5px   0px    #0512381a;    
+    --shadowDropShadowLabels: 0px 0px  4px   1px    #c8c8c840;    
+    --shadowDropShadowInputDropdownFields: 0px 0px  3px   3px    #05123805;    
+    --shadowDropShadowCards: 0px 4px  16px   2px    #0512381a;    
+    --shadowDropShadowButtonHover: 0px 2px  6px   0px    #05123840;    
+    --shadowDropShadowCardsHover: 0px 4px  16px   4px    #05123826;    
+    --shadowDropShadowFloatingComponents: 0px 3px  15px   0px    #161e371a;    
+    --shadowGlowDefault: 0px 0px  5px   0px    #ffffffcc;    
+}
