@@ -35,6 +35,7 @@
     --colorActionBorderDisabled: #a3a6a6;    
     /* Use for free-standing icons, graphics and/or texts */
     --colorForgroundDisabled: #a3a6a6;    
+    --colorFeedbackBackgroundErrorInput: #f2e5e7;    
     --colorActionDisabled: var(--colorBaseGrey600);    
     --colorActionBackground: var(--colorBaseCloudWhite);    
     --colorActionPrimaryDefault: var(--colorBaseStromeeGreen);    
