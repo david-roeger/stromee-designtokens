@@ -5,7 +5,7 @@ const basePunchGreen = "#dcfdbc";
 const baseSummerYellow = "#fcf466";
 const baseSkyBlue = "#7cb9d6";
 const baseSkyBlueLight = "#b1d5e7";
-const baseLollipopRed = "#d9536a";
+const baseLollipopRed = "#b33349";
 const baseGrey200 = "#666a6a";
 const baseGrey300 = "#a3a6a6";
 const baseGrey400 = "#cfcfcf";
@@ -28,8 +28,10 @@ const baseOpacity300 = "#161e3726";
 const baseOpacity400 = "#161e3766";
 const baseOpacity500 = "#161e3799";
 const baseOpacityFull = "#ffffff00";
+const actionOnDisabled = "#a3a6a6";
+const actionBorderDisabled = "#a3a6a6";
+const forgroundDisabled = "#a3a6a6";
 const actionDisabled = baseGrey600;
-const actionOnDisabled = baseGrey400;
 const actionBackground = baseCloudWhite;
 const actionPrimaryDefault = baseStromeeGreen;
 const actionPrimaryHover = baseStromeeGreen;
@@ -46,10 +48,8 @@ const actionOnTertiaryHover = baseGrey600;
 const actionBorderDefault = baseStromeeNavy;
 const actionBorderOnDark = baseGrey600;
 const actionBorderActive = baseGrey400;
-const actionBorderDisabled = baseGrey500;
 const forgroundDefault = baseStromeeNavy;
 const forgroundOnDark = baseGrey500;
-const forgroundDisabled = baseGrey400;
 const forgroundSecondary = baseGrey300;
 const backgroundDefault = baseGrey600;
 const backgroundSecondary = baseCloudWhite;
@@ -115,8 +115,11 @@ export const Colors = {
     baseOpacity400,
     baseOpacity500,
     baseOpacityFull,
-    actionDisabled,
     actionOnDisabled,
+    actionBorderDisabled,
+  /** Use for free-standing icons, graphics and/or texts */
+    forgroundDisabled,
+    actionDisabled,
     actionBackground,
     actionPrimaryDefault,
     actionPrimaryHover,
@@ -133,13 +136,10 @@ export const Colors = {
     actionBorderDefault,
     actionBorderOnDark,
     actionBorderActive,
-    actionBorderDisabled,
   /** Use for free-standing icons, graphics and/or texts */
     forgroundDefault,
   /** Use for free-standing icons, graphics and/or texts on dark backgrounds */
     forgroundOnDark,
-  /** Use for free-standing icons, graphics and/or texts */
-    forgroundDisabled,
     forgroundSecondary,
   /** Baseline UI background */
     backgroundDefault,

@@ -25,6 +25,29 @@ const dropShadowButtons = {
                    },
            color: "#0512381a",
          };
+const dropShadowButtonHover = {  
+           offsetX: {
+                     measure: 0,
+                     unit: "Pixels",
+                     css: "0px"
+                    },
+           offsetY: {
+                     measure: 2,
+                     unit: "Pixels",
+                     css: "2px"
+                    },
+           radius: {
+                    measure: 6,
+                    unit: "Pixels",
+                    css: "6px"
+                   },
+           spread: {
+                    measure: 0,
+                    unit: "Pixels",
+                    css: "0px"
+                   },
+           color: "#05123840",
+         };
 const dropShadowLabels = {  
            offsetX: {
                      measure: 0,
@@ -93,29 +116,6 @@ const dropShadowCards = {
                     css: "2px"
                    },
            color: "#0512381a",
-         };
-const dropShadowButtonHover = {  
-           offsetX: {
-                     measure: 0,
-                     unit: "Pixels",
-                     css: "0px"
-                    },
-           offsetY: {
-                     measure: 2,
-                     unit: "Pixels",
-                     css: "2px"
-                    },
-           radius: {
-                    measure: 6,
-                    unit: "Pixels",
-                    css: "6px"
-                   },
-           spread: {
-                    measure: 0,
-                    unit: "Pixels",
-                    css: "0px"
-                   },
-           color: "#05123840",
          };
 const dropShadowCardsHover = {  
            offsetX: {
@@ -190,10 +190,10 @@ const glowDefault = {
 
 export const Shadows = {
       dropShadowButtons,
+      dropShadowButtonHover,
       dropShadowLabels,
       dropShadowInputDropdownFields,
       dropShadowCards,
-      dropShadowButtonHover,
       dropShadowCardsHover,
       dropShadowFloatingComponents,
       glowDefault,
