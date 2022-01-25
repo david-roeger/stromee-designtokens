@@ -31,6 +31,7 @@ const baseOpacityFull = "#ffffff00";
 const actionOnDisabled = "#a3a6a6";
 const actionBorderDisabled = "#a3a6a6";
 const forgroundDisabled = "#a3a6a6";
+const feedbackBackgroundErrorInput = "#f2e5e7";
 const actionDisabled = baseGrey600;
 const actionBackground = baseCloudWhite;
 const actionPrimaryDefault = baseStromeeGreen;
@@ -119,6 +120,7 @@ export const Colors = {
     actionBorderDisabled,
   /** Use for free-standing icons, graphics and/or texts */
     forgroundDisabled,
+    feedbackBackgroundErrorInput,
     actionDisabled,
     actionBackground,
     actionPrimaryDefault,
