@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/david-roeger/strome-sds/issues"
   },
-  "homepage": "https://github.com/david-roeger/strome-sds#readme"
+  "homepage": "https://github.com/david-roeger/strome-sds#readme",
+
+  "exports": {
+    "default": "./"
+  }
 }
