@@ -18,7 +18,7 @@
   "homepage": "https://github.com/david-roeger/strome-sds#readme",
 
   "exports": {
-    "default": "./",
-    "css": "./css/index.css"
+    "./css": "./css/index.css",
+    "./react": "./react/index.ts"
   }
 }
