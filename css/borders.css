@@ -2,6 +2,6 @@
 :root {
     --borderSDark: var(--measurePx) solid var(--colorActionBorderDefault);    
     --border0: 0px solid var(--colorActionBorderDefault);    
-    --borderMDark: var(--measure05) solid #000000;    
+    --borderMDark: var(--measure05) solid var(--colorActionBorderDefault);    
     --borderLDark: var(--measure1) solid var(--colorActionBorderDefault);    
 }
