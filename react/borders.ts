@@ -16,7 +16,7 @@ const _0 = {
            position: "Center",
          };
 const mDark = {
-           color: "#000000",
+           color: Colors.actionBorderDefault,
            width: Measures._05,
            position: "Inside",
          };
