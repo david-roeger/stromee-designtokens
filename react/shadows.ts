@@ -23,7 +23,7 @@ const dropShadowButtons = {
                     unit: "Pixels",
                     css: "0px"
                    },
-           color: "#0512381a",
+           color: "#1d24451a",
          };
 const dropShadowButtonHover = {  
            offsetX: {
@@ -46,7 +46,7 @@ const dropShadowButtonHover = {
                     unit: "Pixels",
                     css: "0px"
                    },
-           color: "#05123840",
+           color: "#1d244540",
          };
 const dropShadowLabels = {  
            offsetX: {
@@ -92,7 +92,7 @@ const dropShadowInputDropdownFields = {
                     unit: "Pixels",
                     css: "3px"
                    },
-           color: "#05123805",
+           color: "#1d244505",
          };
 const dropShadowCards = {  
            offsetX: {
@@ -115,7 +115,7 @@ const dropShadowCards = {
                     unit: "Pixels",
                     css: "2px"
                    },
-           color: "#0512381a",
+           color: "#1d24451a",
          };
 const dropShadowCardsHover = {  
            offsetX: {
@@ -138,7 +138,7 @@ const dropShadowCardsHover = {
                     unit: "Pixels",
                     css: "4px"
                    },
-           color: "#05123826",
+           color: "#1d244526",
          };
 const dropShadowFloatingComponents = {  
            offsetX: {
@@ -161,7 +161,7 @@ const dropShadowFloatingComponents = {
                     unit: "Pixels",
                     css: "0px"
                    },
-           color: "#161e371a",
+           color: "#1d24451a",
          };
 const glowDefault = {  
            offsetX: {
