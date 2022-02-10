@@ -1,7 +1,7 @@
 
 :root {
     --colorBaseStromeeGreen: #6ddc91;    
-    --colorBaseStromeeNavy: #161e37;    
+    --colorBaseStromeeNavy: #1d2445;    
     --colorBasePopPetrol: #1b4650;    
     --colorBasePunchGreen: #caf2a3;    
     /* Background content blocks */
@@ -25,16 +25,24 @@
     --colorBaseStromeeNavy400: #2c3c6d;    
     --colorBaseTanLight: #f0e7da;    
     --colorBaseTanDark: #f5d6ba;    
-    --colorBaseOpacity100: #05123808;    
-    --colorBaseOpacity200: #0512381a;    
-    --colorBaseOpacity300: #161e3726;    
-    --colorBaseOpacity400: #161e3766;    
-    --colorBaseOpacity500: #161e3799;    
+    --colorBaseOpacity100: #1d244508;    
+    --colorBaseOpacity200: #1d24451a;    
+    --colorBaseOpacity300: #1d244526;    
+    --colorBaseOpacity400: #1d244566;    
+    --colorBaseOpacity500: #1d244599;    
     --colorBaseOpacityFull: #ffffff00;    
     --colorActionOnDisabled: #a3a6a6;    
     --colorActionBorderDisabled: #a3a6a6;    
     /* Use for free-standing icons, graphics and/or texts */
     --colorForgroundDisabled: #a3a6a6;    
+    /* opacity-200 */
+    --colorEffectsDropShadowButtons: #0512381a;    
+    /* lition-basic-opacity-100 */
+    --colorEffectsDropShadowLables: #0512381a;    
+    --colorEffectsDropShadowInputDropdownFields: #05123808;    
+    --colorEffectsDropShadowCards: #0512381a;    
+    --colorEffectsDropShadowCardsHover: #161e3726;    
+    --colorEffectsDropShadowFloatingComponents: #0512381a;    
     --colorFeedbackBackgroundErrorInput: #f2e5e7;    
     --colorActionDisabled: var(--colorBaseGrey600);    
     --colorActionBackground: var(--colorBaseCloudWhite);    
@@ -66,14 +74,6 @@
     /* Use to divide between section or elements when needed */
     --colorBorderDividerLight: var(--colorBaseGrey500);    
     --colorBorderDefault: var(--colorBaseStromeeNavy);    
-    /* opacity-200 */
-    --colorEffectsDropShadowButtons: var(--colorBaseOpacity200);    
-    /* lition-basic-opacity-100 */
-    --colorEffectsDropShadowLables: var(--colorBaseOpacity200);    
-    --colorEffectsDropShadowInputDropdownFields: var(--colorBaseOpacity100);    
-    --colorEffectsDropShadowCards: var(--colorBaseOpacity200);    
-    --colorEffectsDropShadowCardsHover: var(--colorBaseOpacity300);    
-    --colorEffectsDropShadowFloatingComponents: var(--colorBaseOpacity200);    
     --colorEffectsGlowDefault: var(--colorBaseCloudWhiteOpacity80);    
     --colorFeedbackAttention: var(--colorBaseTanLight);    
     --colorFeedbackSuccess: var(--colorBaseStromeeGreen);    
