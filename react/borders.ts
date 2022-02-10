@@ -3,7 +3,7 @@ import { Colors } from './colors';
 import { Measures } from './measures';
 const sDark = {
            color: Colors.actionBorderDefault,
-           witdh: Measures.xxxxs,
+           witdh: Measures.px,
            position: "Center",
          };
 const _0 = {
@@ -17,12 +17,12 @@ const _0 = {
          };
 const mDark = {
            color: "#000000",
-           witdh: Measures.xxxs,
+           witdh: Measures._05,
            position: "Inside",
          };
 const lDark = {
            color: Colors.actionBorderDefault,
-           witdh: Measures.xxs,
+           witdh: Measures._1,
            position: "Inside",
          };
 

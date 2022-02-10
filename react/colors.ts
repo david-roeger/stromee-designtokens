@@ -1,11 +1,11 @@
 const baseStromeeGreen = "#6ddc91";
-const baseStromeeNavy = "#161e37";
+const baseStromeeNavy = "#1d2445";
 const basePopPetrol = "#1b4650";
-const basePunchGreen = "#dcfdbc";
+const basePunchGreen = "#caf2a3";
 const baseSummerYellow = "#fcf466";
 const baseSkyBlue = "#7cb9d6";
 const baseSkyBlueLight = "#b1d5e7";
-const baseLollipopRed = "#d9536a";
+const baseLollipopRed = "#b33349";
 const baseGrey200 = "#666a6a";
 const baseGrey300 = "#a3a6a6";
 const baseGrey400 = "#cfcfcf";
@@ -22,14 +22,23 @@ const baseStromeeNavy300 = "#24325b";
 const baseStromeeNavy400 = "#2c3c6d";
 const baseTanLight = "#f0e7da";
 const baseTanDark = "#f5d6ba";
-const baseOpacity100 = "#05123808";
-const baseOpacity200 = "#0512381a";
-const baseOpacity300 = "#161e3726";
-const baseOpacity400 = "#161e3766";
-const baseOpacity500 = "#161e3799";
+const baseOpacity100 = "#1d244508";
+const baseOpacity200 = "#1d24451a";
+const baseOpacity300 = "#1d244526";
+const baseOpacity400 = "#1d244566";
+const baseOpacity500 = "#1d244599";
 const baseOpacityFull = "#ffffff00";
+const actionOnDisabled = "#a3a6a6";
+const actionBorderDisabled = "#a3a6a6";
+const forgroundDisabled = "#a3a6a6";
+const effectsDropShadowButtons = "#0512381a";
+const effectsDropShadowLables = "#0512381a";
+const effectsDropShadowInputDropdownFields = "#05123808";
+const effectsDropShadowCards = "#0512381a";
+const effectsDropShadowCardsHover = "#161e3726";
+const effectsDropShadowFloatingComponents = "#0512381a";
+const feedbackBackgroundErrorInput = "#f2e5e7";
 const actionDisabled = baseGrey600;
-const actionOnDisabled = baseGrey400;
 const actionBackground = baseCloudWhite;
 const actionPrimaryDefault = baseStromeeGreen;
 const actionPrimaryHover = baseStromeeGreen;
@@ -46,10 +55,8 @@ const actionOnTertiaryHover = baseGrey600;
 const actionBorderDefault = baseStromeeNavy;
 const actionBorderOnDark = baseGrey600;
 const actionBorderActive = baseGrey400;
-const actionBorderDisabled = baseGrey500;
 const forgroundDefault = baseStromeeNavy;
 const forgroundOnDark = baseGrey500;
-const forgroundDisabled = baseGrey400;
 const forgroundSecondary = baseGrey300;
 const backgroundDefault = baseGrey600;
 const backgroundSecondary = baseCloudWhite;
@@ -57,12 +64,6 @@ const backgroundDarkPrimary = baseStromeeNavy;
 const borderCards = baseGrey500;
 const borderDividerLight = baseGrey500;
 const borderDefault = baseStromeeNavy;
-const effectsDropShadowButtons = baseOpacity200;
-const effectsDropShadowLables = baseOpacity200;
-const effectsDropShadowInputDropdownFields = baseOpacity100;
-const effectsDropShadowCards = baseOpacity200;
-const effectsDropShadowCardsHover = baseOpacity300;
-const effectsDropShadowFloatingComponents = baseOpacity200;
 const effectsGlowDefault = baseCloudWhiteOpacity80;
 const feedbackAttention = baseTanLight;
 const feedbackSuccess = baseStromeeGreen;
@@ -115,8 +116,20 @@ export const Colors = {
     baseOpacity400,
     baseOpacity500,
     baseOpacityFull,
-    actionDisabled,
     actionOnDisabled,
+    actionBorderDisabled,
+  /** Use for free-standing icons, graphics and/or texts */
+    forgroundDisabled,
+  /** opacity-200 */
+    effectsDropShadowButtons,
+  /** lition-basic-opacity-100 */
+    effectsDropShadowLables,
+    effectsDropShadowInputDropdownFields,
+    effectsDropShadowCards,
+    effectsDropShadowCardsHover,
+    effectsDropShadowFloatingComponents,
+    feedbackBackgroundErrorInput,
+    actionDisabled,
     actionBackground,
     actionPrimaryDefault,
     actionPrimaryHover,
@@ -133,13 +146,10 @@ export const Colors = {
     actionBorderDefault,
     actionBorderOnDark,
     actionBorderActive,
-    actionBorderDisabled,
   /** Use for free-standing icons, graphics and/or texts */
     forgroundDefault,
   /** Use for free-standing icons, graphics and/or texts on dark backgrounds */
     forgroundOnDark,
-  /** Use for free-standing icons, graphics and/or texts */
-    forgroundDisabled,
     forgroundSecondary,
   /** Baseline UI background */
     backgroundDefault,
@@ -149,14 +159,6 @@ export const Colors = {
   /** Use to divide between section or elements when needed */
     borderDividerLight,
     borderDefault,
-  /** opacity-200 */
-    effectsDropShadowButtons,
-  /** lition-basic-opacity-100 */
-    effectsDropShadowLables,
-    effectsDropShadowInputDropdownFields,
-    effectsDropShadowCards,
-    effectsDropShadowCardsHover,
-    effectsDropShadowFloatingComponents,
     effectsGlowDefault,
     feedbackAttention,
     feedbackSuccess,
