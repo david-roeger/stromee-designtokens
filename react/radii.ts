@@ -1,20 +1,20 @@
 
 import { Measures } from './measures';
-const radiusM = {
+const m = {
            radius: {
                       measure: 24,
                       unit: "Pixels",
                       css: "24px"
                      },
          };
-const radiusL = {
+const l = {
            radius: {
                       measure: 64,
                       unit: "Pixels",
                       css: "64px"
                      },
          };
-const radiusXs = {
+const s = {
            radius: {
                       measure: 4,
                       unit: "Pixels",
@@ -25,8 +25,8 @@ const radiusXs = {
 
 export const Raddii = {
   /** Input fields */
-      radiusM,
-      radiusL,
+      m,
+      l,
   /** Cards */
-      radiusXs,
+      s,
 }
