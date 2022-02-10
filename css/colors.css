@@ -3,12 +3,12 @@
     --colorBaseStromeeGreen: #6ddc91;    
     --colorBaseStromeeNavy: #161e37;    
     --colorBasePopPetrol: #1b4650;    
-    --colorBasePunchGreen: #dcfdbc;    
+    --colorBasePunchGreen: #caf2a3;    
     /* Background content blocks */
     --colorBaseSummerYellow: #fcf466;    
     --colorBaseSkyBlue: #7cb9d6;    
     --colorBaseSkyBlueLight: #b1d5e7;    
-    --colorBaseLollipopRed: #d9536a;    
+    --colorBaseLollipopRed: #b33349;    
     --colorBaseGrey200: #666a6a;    
     --colorBaseGrey300: #a3a6a6;    
     --colorBaseGrey400: #cfcfcf;    
@@ -31,8 +31,12 @@
     --colorBaseOpacity400: #161e3766;    
     --colorBaseOpacity500: #161e3799;    
     --colorBaseOpacityFull: #ffffff00;    
+    --colorActionOnDisabled: #a3a6a6;    
+    --colorActionBorderDisabled: #a3a6a6;    
+    /* Use for free-standing icons, graphics and/or texts */
+    --colorForgroundDisabled: #a3a6a6;    
+    --colorFeedbackBackgroundErrorInput: #f2e5e7;    
     --colorActionDisabled: var(--colorBaseGrey600);    
-    --colorActionOnDisabled: var(--colorBaseGrey400);    
     --colorActionBackground: var(--colorBaseCloudWhite);    
     --colorActionPrimaryDefault: var(--colorBaseStromeeGreen);    
     --colorActionPrimaryHover: var(--colorBaseStromeeGreen);    
@@ -49,13 +53,10 @@
     --colorActionBorderDefault: var(--colorBaseStromeeNavy);    
     --colorActionBorderOnDark: var(--colorBaseGrey600);    
     --colorActionBorderActive: var(--colorBaseGrey400);    
-    --colorActionBorderDisabled: var(--colorBaseGrey500);    
     /* Use for free-standing icons, graphics and/or texts */
     --colorForgroundDefault: var(--colorBaseStromeeNavy);    
     /* Use for free-standing icons, graphics and/or texts on dark backgrounds */
     --colorForgroundOnDark: var(--colorBaseGrey500);    
-    /* Use for free-standing icons, graphics and/or texts */
-    --colorForgroundDisabled: var(--colorBaseGrey400);    
     --colorForgroundSecondary: var(--colorBaseGrey300);    
     /* Baseline UI background */
     --colorBackgroundDefault: var(--colorBaseGrey600);    
