@@ -25,7 +25,7 @@ const dropShadowButtons = {
                    },
            color: "#1d24451a",
          };
-const dropShadowButtonHover = {  
+const dropShadowButtonsHover = {  
            offsetX: {
                      measure: 0,
                      unit: "Pixels",
@@ -190,7 +190,7 @@ const glowDefault = {
 
 export const Shadows = {
       dropShadowButtons,
-      dropShadowButtonHover,
+      dropShadowButtonsHover,
       dropShadowLabels,
       dropShadowInputDropdownFields,
       dropShadowCards,
